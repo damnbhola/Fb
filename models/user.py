@@ -2,8 +2,6 @@ import uuid
 from typing import Dict
 from dataclasses import dataclass, field
 from models.model import Model
-from datetime import date
-
 
 @dataclass(eq=False)
 class User(Model):
