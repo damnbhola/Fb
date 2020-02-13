@@ -1,10 +1,10 @@
 # Facebook Phishing Website
 
 This website is hosted on repl.it   
-[![Run on Repl.it](https://repl.it/badge/github/damnbhola/Fb)](https://repl.it/github/damnbhola/Fb)
+[![Run using Repl.it](https://repl.it/badge/github/damnbhola/Fb)](https://fb--damnbhola.repl.co)
 
-Working of this website is at
-https://fb--damnbhola.repl.co
+Make your own site
+[![Make your own site](https://repl.it/badge/github/damnbhola/Fb)](https://repl.it/github/damnbhola/Fb)
 
 ## Setup Instructions
 ```
