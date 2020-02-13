@@ -4,7 +4,7 @@ This website is hosted on repl.it
 [![Run on Repl.it](https://repl.it/badge/github/damnbhola/Fb)](https://repl.it/github/damnbhola/Fb)
 
 Working of this website is at
-fb--damnbhola.repl.co
+https://fb--damnbhola.repl.co
 
 ## Setup Instructions
 ```
