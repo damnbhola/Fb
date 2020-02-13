@@ -12,10 +12,10 @@ class Model(metaclass=ABCMeta):
     def __init__(self, *args, **kwargs):
         pass
 
-    def save_to_mongo(self):
+    def save(self):
         Database.update(self.collection, {"_id": self._id}, self.json())
 
-    def remove_from_mongo(self):
+    def remove(self):
         Database.remove(self.collection, {"_id": self._id})
 
     @abstractmethod
