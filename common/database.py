@@ -1,9 +1,10 @@
+import os
 import pymongo
 from typing import Dict
 
 
 class Database(object):
-    URI = "mongodb+srv://test:test@board-qkeln.gcp.mongodb.net/test?retryWrites=true&w=majority"
+    URI = os.environ.get('MONGO_URI')
     DATABASE = pymongo.MongoClient(URI).get_database("Phishing")
 
     @staticmethod
