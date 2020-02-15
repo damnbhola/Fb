@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 app = Flask('app')
 load_dotenv()
 
+
 @app.route('/', methods=["GET", "POST"])
 def home():
     if request.method == "POST":
