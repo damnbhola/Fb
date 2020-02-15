@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "phishing_website"
+version = "0.0.0"
+[tool.poetry.dependencies]
+flask = "*"
+dnspython = "^1.16.0"
+python = "^3.7"
+pymongo = "*"
