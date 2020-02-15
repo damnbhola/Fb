@@ -4,7 +4,7 @@ This website is hosted on repl.it [![Run using Repl.it](https://repl.it/badge/gi
 
 ## Aim
 
-To create a phishing page for facebook for testing purposes.
+To create a phishing page of facebook for testing purposes.
 
 ## Setup Instructions
 ```
