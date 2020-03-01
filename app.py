@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect
 from models.user import User
 from dotenv import load_dotenv
 
-app = Flask('app')
+app = Flask(__main__)
 load_dotenv()
 
 
@@ -22,4 +22,4 @@ def password():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8080)
+    app.run()
