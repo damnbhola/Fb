@@ -8,4 +8,4 @@ To create a phishing page of facebook for testing purposes.
 
 ## Passwords
 
-goto yoursite/recover to access passwords.
+goto yoursite/recover to access passwords
